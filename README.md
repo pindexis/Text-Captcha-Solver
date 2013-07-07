@@ -13,7 +13,7 @@ Usage:
          TextCaptchaSolver.CaptchaSolver solver = new TextCaptchaSolver.CaptchaSolver();
             try
             {
-                return TextcaptchaSolver.Solve(input);
+                return solver.Solve(input);
             }
             catch(Exception ex)
             {
