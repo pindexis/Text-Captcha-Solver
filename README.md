@@ -3,7 +3,7 @@ Text-Captcha-Solver
 
 C# Library to solve simple logic questions, I have Created For Learning Purpose.
 
-the Library solve th following varaious types of questions...
+the Library solve varaious types of questions...
 
 
 
